@@ -39,7 +39,7 @@ export default class Sidebar extends Component {
             <br/>
             <div className="colorlib-footer">
               <p><small>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
+                  This site was built with React.js and <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> template
               </small></p>
             </div>
           </aside>
