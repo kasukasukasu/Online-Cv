@@ -16,7 +16,7 @@ export default class ff5474 extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -25,9 +25,9 @@ export default class ff5474 extends Component {
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -36,6 +36,30 @@ export default class ff5474 extends Component {
                       </div>
                     </div>
                   </article>
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                      <div className="timeline-entry-inner">
+                                        <div className="timeline-icon color-3">
+                                          <i className="icon-pen2" />
+                                        </div>
+                                                  <div className="timeline-label">
+                                                                   <h2>Junior Advisor & Immigration Officer @ Ministry For Foreign Affairs <span> 2017 - 2018 </span></h2>
+                                                                   <p>Worked at the Embassy of Finland in Hanoi with Immigration, Commercial and Development Affairs </p>
+                                                                 </div>
+
+                                      </div>
+                                    </article>
+                                                      <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                                        <div className="timeline-entry-inner">
+                                                          <div className="timeline-icon color-4">
+                                                            <i className="icon-pen2" />
+                                                          </div>
+                                                                         <div className="timeline-label">
+                                                                                                        <h2>Policy Analyst @ Manketti ltd <span> 2016 - 2017 </span></h2>
+                                                                                                        <p>Policy analysis and consultancy on development financing and procurement. Working on analyses on both Multilateral development banks and bilateral development financing as well as the procurement methods of international development financing institutions.</p>
+                                                                                                      </div>
+
+                                                        </div>
+                                                      </article>
                 </div>
               </div>
             </div>
